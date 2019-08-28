@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmerlabe/eleventy-intro.git"
+  },
+  "keywords": [],
+  "author": "Elmer <elmerlabe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmerlabe/eleventy-intro/issues"
+  },
+  "homepage": "https://github.com/elmerlabe/eleventy-intro#readme"
+}
